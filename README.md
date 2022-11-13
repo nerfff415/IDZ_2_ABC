@@ -30,3 +30,4 @@
 
 ![image](https://user-images.githubusercontent.com/108925927/201542144-d9a710aa-a7b0-40e8-9daa-74aa7d808b0e.png)
 
+(gcc -masm=intel -fno-asynchronous-unwind-tables -fno-jump-tables -fno-stack-protector -fno-exceptions ./main.c -S -o ./main.s)
