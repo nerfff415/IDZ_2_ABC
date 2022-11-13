@@ -141,7 +141,7 @@ main:
 	sub	rsp, 1824
 	mov	DWORD PTR -4[rbp], 0
 	lea	rdi, .LC0[rip]
-	mov	eax, 0
+	mov	eax, 0				      # не работаем с плавающей точкой
 	call	printf@PLT            # Введите строчку:
 .L20:
 	mov	rax, QWORD PTR stdin[rip]
@@ -183,13 +183,13 @@ main:
 	mov	eax, DWORD PTR -12[rbp]
 	mov	esi, eax
 	lea	rdi, .LC1[rip]
-	mov	eax, 0
+	mov	eax, 0				      # не работаем с плавающей точкой
 	call	printf@PLT            # printf("Количество гласных букв в строке: %d \n", tmp1);
 
 	mov	eax, DWORD PTR -16[rbp]
 	mov	esi, eax
 	lea	rdi, .LC2[rip]
-	mov	eax, 0 
+	mov	eax, 0 					  # не работаем с плавающей точкой
 	call	printf@PLT            # printf("Количество coгласных букв в строке: %d \n", tmp1);
 
 	mov	eax, 0
