@@ -16,16 +16,17 @@
 
 —---------------------------------------------------Тест2—----------------------------------------------------
 
-![](RackMultipart20221113-1-i5wdey_html_52cdda141a1924f9.png)
+![image](https://user-images.githubusercontent.com/108925927/201542111-e2be029a-5fdd-4d19-95f1-5ad879fae399.png)
 
 —---------------------------------------------------Тест3—----------------------------------------------------
 
-![](RackMultipart20221113-1-i5wdey_html_9689346b86cbb01c.png)
+![image](https://user-images.githubusercontent.com/108925927/201542127-87964ef8-5175-412c-bbb8-5e06c005ef07.png)
 
 —---------------------------------------------------Тест4—----------------------------------------------------
 
-![](RackMultipart20221113-1-i5wdey_html_5e5f457511b68ada.png)
+![image](https://user-images.githubusercontent.com/108925927/201542135-de5ecd0d-6b86-424b-bbc4-c4d467023a51.png)
 
 —---------------------------------------------------Тест5(пустой ввод)-------------------------------------
 
-![](RackMultipart20221113-1-i5wdey_html_b96f52da60a5689f.png)
+![image](https://user-images.githubusercontent.com/108925927/201542144-d9a710aa-a7b0-40e8-9daa-74aa7d808b0e.png)
+
